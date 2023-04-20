@@ -29,7 +29,7 @@ obtenerNombre()
 
 obtenerApellido()
 
-hacerActividad()
+obtenerActividad()
 
 cambiarActividad()
 
